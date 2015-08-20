@@ -31,4 +31,4 @@ FAT52_dev/SOFT/1
 *.log
 *.class
 *.~*
-*.hex*
+*.hex
